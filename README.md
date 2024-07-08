@@ -1,2 +1,2 @@
-#!/bin/bash
-The repo "alx_be_shell" is hosting the below directory "shell-permissions" is hosting the text file "0-iam_betty" Whis is a script to change a current user to a new user "betty"
+This script is to make "betty" a supruser inplace of "root"
+
